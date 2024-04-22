@@ -30,7 +30,7 @@ It is designed to be an immersive and engaging experience for players, offering 
 Zoro and Asad both were on a mission to capture Furizz.While on a mission they both were attacked by Furizz army.Furizz is a cartle leader who has an entire army.
 During the fight somehow Zoro was saved but Asad was captured.Zoro is back again after this and in search of Asad to be saved and Furizz to be killed.
 [Main Characters]:
- 1) Captain Zoro: Who is the player who is the main character here.
+ 1) Captain Zoro: He is the player & the main character here.
  2) The Furizz: The main villain.
  3) Captain Asad: Who is kidnapped and captured by Furizz and his army.Who will seen in the "Killing Furizz" mission.
  [Missions]: 
