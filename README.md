@@ -5,6 +5,9 @@ DEVELOPER: MOHAMMAD IFTAKHAR KABIR SAKUR
 "CAPTAIN ZORO" is the main character of the game and the story.The game is named after this character.And the "Furizz" which is the villain of the game.It has 4 playable Missions and 9 scenes including (Menu,Beginning part,In the Basecamp,Credit scene).
 It is designed to be an immersive and engaging experience for players, offering a unique blend of [gameplay mechanics, storytelling elements, visual aesthetics, etc.].
 
+#Whole_Game_Preview:
+https://www.youtube.com/watch?v=8gsKliwgABY
+
 #Key Features:
 1) This is an FPS Game Project.So the player can shoot enemy,kill them,can move into  different places
 2) It has vehicle system.Player can drive and can move to different places in "TerrainStan" Mission.
@@ -125,9 +128,6 @@ Assets:
 8) Military Helicopter II: https://assetstore.unity.com/packages/3d/vehicles/air/military-helicopter-ii-9472
 9) Easy FPS: https://assetstore.unity.com/packages/3d/characters/humanoids/sci-fi/easy-fps-73776
 10) SkyBox: https://assetstore.unity.com/packages/3d/characters/humanoids/sci-fi/easy-fps-73776
-
-#Whole_Game_Preview:
-https://www.youtube.com/watch?v=8gsKliwgABY
 
 TO CONTACT WITH THE DEVELOPER:
 1) E-MAIL: mdiftakharkabirsakur@gmail.com
